@@ -12,7 +12,7 @@ dependencies:
   - notebook
   - jupyterlab
   - jupyter_nbextensions_configurator
-  - rise
+  #- rise
   # required to decouple binder and repo
   - nbgitpuller
   # optional jupyter labextensions (i.e. git) build dependencies
