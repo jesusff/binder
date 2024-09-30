@@ -11,7 +11,6 @@ dependencies:
   - jupyterhub
   - notebook
   - jupyterlab
-  - jupyter_contrib_nbextensions
   # required to decouple binder and repo
   - nbgitpuller
   # optional jupyter labextensions (i.e. git) build dependencies
